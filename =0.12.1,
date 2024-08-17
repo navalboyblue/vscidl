@@ -1,0 +1,12 @@
+Collecting meson-python
+  Using cached meson_python-0.16.0-py3-none-any.whl (26 kB)
+Collecting pyproject-metadata>=0.7.1
+  Using cached pyproject_metadata-0.8.0-py3-none-any.whl (7.5 kB)
+Collecting meson>=0.63.3
+  Using cached meson-1.5.1-py3-none-any.whl (966 kB)
+Collecting tomli>=1.0.0
+  Using cached tomli-2.0.1-py3-none-any.whl (12 kB)
+Collecting packaging>=19.0
+  Using cached packaging-24.1-py3-none-any.whl (53 kB)
+Installing collected packages: packaging, tomli, pyproject-metadata, meson, meson-python
+Successfully installed meson-1.5.1 meson-python-0.16.0 packaging-24.1 pyproject-metadata-0.8.0 tomli-2.0.1
